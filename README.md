@@ -1,16 +1,17 @@
-### Hi there 👋
+Hi 👋, I'm Javier Mazzetta
+Apassionate developer iOS mobile from Italy
+🔭 I’m currently working on Nickflix
 
-<!--
-**Jengibre33/jengibre33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently learning MVVM, XcTest , Node.js, among others
 
-Here are some ideas to get you started:
+👯 I’m looking to collaborate as iOS developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Ask me about UIKit
+
+📫 How to reach me andresm166@icloud.com
+
+Connect with me:
+javier jengibre33 javier mazzetta javier mazzetta javier_mvd
+
+Languages and Tools:
+firebase git nodejs swift
