@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate as **iOS developer**
 
-- 💬 Ask me about **UIKit**
+- 💬 Ask me about **UIKit/TableView/MVC/MVVM/SPM/Cocoa Pods/API REST**
 
 - 📫 How to reach me **andresm166@icloud.com**
 
