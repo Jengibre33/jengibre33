@@ -1,7 +1,7 @@
 <h1 align="center">Hello world! I'm Javier</h1>
 <h3 align="center">Apassionate developer iOS mobile from Italy</h3>
 
-- 🔭 I’m currently working on [Nickflix](https://github.com/Jengibre33/Nickflix)
+- 🔭 I’m currently working on [Business Bank](https://github.com/Jengibre33/Nickflix)
 
 - 🌱 I’m currently learning **MVVM, XcTest , Node.js, among others**
 
